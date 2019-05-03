@@ -5,7 +5,7 @@ public class HolaMundo {
 		// TODO Auto-generated method stub
         System.out.println("Hola");
         System.out.println("Que tal?");
-        System.out.println("Iraitz locoooooooo");
+        System.out.println("Iraitz locooooooo");
        
 
 	}
