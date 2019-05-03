@@ -5,10 +5,11 @@ public class HolaMundo {
 		// TODO Auto-generated method stub
         System.out.println("Hola");
         System.out.println("Que tal?");
-        System.out.println("Iraitz locooooooo");
-        System.out.println("pikahimovic");
-       
-
+<<<<<<< HEAD
+        System.out.println("team");
+=======
+        System.out.println("Iraitz locooooooooo");
+>>>>>>> branch 'master' of https://github.com/bylarrabe/nex.git
 	}
 
 }
